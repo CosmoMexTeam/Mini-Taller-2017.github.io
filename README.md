@@ -1,9 +1,8 @@
 ## Mini-Taller 2017: Métodos Númericos y Estadísticos en Cosmología
 
+### Programa
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
