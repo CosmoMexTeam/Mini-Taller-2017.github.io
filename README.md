@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mini-Taller 2017: Métodos Númericos y Estadísticos en Cosmología
 
 You can use the [editor on GitHub](https://github.com/Mini-Taller/Mini-taller.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
