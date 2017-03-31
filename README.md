@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Mini-Taller 2017
+## Metodos Numericos y Estadisticos en Cosmologia 
+### 6 y 7 de Abril del 2017, CINVESTAV.
 
 - Bulleted
 - List
