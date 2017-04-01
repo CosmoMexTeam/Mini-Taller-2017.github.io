@@ -1,18 +1,12 @@
 ---
 ---
-## Mini-Taller 2017: Métodos Númericos y Estadísticos en Cosmología
-
-### 
-
-
-
 
 
 - [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf)<br>
 - [ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstracts.pdf)<br>
 - [COMO LLEGAR]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstracts.pdf)<br>
 
-
+<a href=http://www.fis.cinvestav.mx/es/content/view/28/59/>DEPARTAMENTO DE FISICA CINVESTAV</a>
 
 <ul>
      <a>algo</a>
