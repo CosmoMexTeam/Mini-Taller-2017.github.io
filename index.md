@@ -2,22 +2,16 @@
 ---
 ## Mini-Taller 2017: Métodos Númericos y Estadísticos en Cosmología
 
-### Programa
+### 
 
 
 
 ```markdown
-Syntax highlighted code block
 
-# Mini-Taller 2017
-## Metodos Numericos y Estadisticos en Cosmologia 
-### 6 y 7 de Abril del 2017, CINVESTAV.
 
-- Bulleted
-- List
+- [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf) directly.
+-[ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf) directly.
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -32,7 +26,7 @@ Syntax highlighted code block
   {% endfor %}
 </ul>
 
-... you can [get the PDF]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf) directly.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
