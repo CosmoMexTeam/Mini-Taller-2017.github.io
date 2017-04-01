@@ -24,6 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 <ul>
+     <a>algo</a>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
