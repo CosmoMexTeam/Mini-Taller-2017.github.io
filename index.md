@@ -32,7 +32,7 @@ Syntax highlighted code block
   {% endfor %}
 </ul>
 
-... you can [get the PDF]({{ site.url }}/assets/programataller.pdf) directly.
+... you can [get the PDF]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf) directly.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
