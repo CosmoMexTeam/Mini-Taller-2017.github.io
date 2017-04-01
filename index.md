@@ -16,7 +16,7 @@
 
 <ul>
      <a>algo</a>
-[Link to a post]({{ site.baseurl }}{% link _posts/2017-03-31-minitaller.md %})
+[Link to a post](http://www.fis.cinvestav.mx/es/content/view/28/59/)
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
