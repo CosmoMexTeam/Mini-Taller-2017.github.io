@@ -10,11 +10,13 @@
 
 - [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf)<br>
 - [ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstracts.pdf)<br>
+- [COMO LLEGAR]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstracts.pdf)<br>
 
 
 
 <ul>
      <a>algo</a>
+[Link to a post]({{ site.baseurl }}{% link _posts/2017-03-31-minitaller.md %})
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
