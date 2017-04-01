@@ -6,7 +6,10 @@
 - [ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstracts.pdf)<br>
 - [COMO LLEGAR]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstracts.pdf)<br>
 
-<a href=http://www.fis.cinvestav.mx/es/content/view/28/59/>DEPARTAMENTO DE FISICA CINVESTAV</a>
+
+![IAC]({{ site.url }}/Mini-Taller-2017.github.io/assets.huevo.png)
+
+<a href="http://www.fis.cinvestav.mx/es/content/view/28/59/">DEPARTAMENTO DE FISICA CINVESTAV</a>
 
 <ul>
      <a>algo</a>
