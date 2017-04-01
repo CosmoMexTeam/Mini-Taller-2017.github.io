@@ -10,7 +10,7 @@
 ![IAC]({{ site.url }}/Mini-Taller-2017.github.io/assets/huevo2.png)
 
 <a href="http://www.fis.cinvestav.mx/es/content/view/28/59/">DEPARTAMENTO DE FISICA CINVESTAV</a>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3760.719140943481!2d-99.13107568509201!3d19.51071568684002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f9c3f8c2a46d%3A0xff57ce285b4ec07a!2sCINVESTAV+Departamento+de+F%C3%ADsica!5e0!3m2!1ses-419!2smx!4v1491025900156" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<a href="https://www.google.com.mx/maps/place/CINVESTAV+Departamento+de+F%C3%ADsica/@19.5107157,-99.1310757,17z/data=!3m1!4b1!4m5!3m4!1s0x85d1f9c3f8c2a46d:0xff57ce285b4ec07a!8m2!3d19.5107157!4d-99.128887">MAPA</a>
 
 Para mayor informacion: 
 - Alberto Vazquez: vetovazquez@hotmail.com
