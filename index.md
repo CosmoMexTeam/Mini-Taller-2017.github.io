@@ -32,6 +32,8 @@ Syntax highlighted code block
   {% endfor %}
 </ul>
 
+... you can [get the PDF]({{ site.url }}/assets/programataller.pdf) directly.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
