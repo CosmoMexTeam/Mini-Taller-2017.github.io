@@ -6,17 +6,13 @@
 
 
 
-```markdown
 
 
 - [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf) directly.
--[ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf) directly.
+-[ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstractslinks.pdf) directly.
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 <ul>
      <a>algo</a>
   {% for post in site.posts %}
