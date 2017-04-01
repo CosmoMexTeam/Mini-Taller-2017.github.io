@@ -12,9 +12,6 @@
 <a href="http://www.fis.cinvestav.mx/es/content/view/28/59/">DEPARTAMENTO DE FISICA CINVESTAV</a>
 
 
-
-
-
 Para mayor informacion: 
 - Alberto Vazquez: vetovazquez@hotmail.com
 - Ana Avilez: aavilez@fis.cinvestav.mx
