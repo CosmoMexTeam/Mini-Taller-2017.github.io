@@ -15,8 +15,8 @@ A continuación los horarios de las actividades del mini-taller:
 
 ### - [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf)<br>
 
-![6_Abril]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.jpg)
-![7_Abril]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller_2.jpg)
+![6_Abril]({{ site.url }}/Mini-Taller-2017.github.io/assets/Programa_taller.jpg)
+![7_Abril]({{ site.url }}/Mini-Taller-2017.github.io/assets/Programa_taller_2.jpg)
 
 
 
