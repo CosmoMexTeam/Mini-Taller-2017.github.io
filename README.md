@@ -2,6 +2,8 @@
 ---
 ## Mini-Taller 2017: Métodos Númericos y Estadísticos en Cosmología
 
+## CINVESTAV, CDMX.
+
 ### Programa
 
 

@@ -15,12 +15,8 @@ A continuación los horarios de las actividades del mini-taller:
 
 ### - [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf)<br>
 
-
-![IAC]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.jpg)
-
-| 6 de Abril |
-| 9:00 - 9:20   | Registro         |
-| 9:30 - 11:00  | J.C. Martinez-Ovando | Estadística Bayesiana: Teoría yejercicios|
+![6_Abril]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.jpg)
+![7_Abril]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller_2.jpg)
 
 
 
