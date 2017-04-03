@@ -3,6 +3,10 @@
 
 
 - [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf)<br>
+
+En algunas pláticas del mini-taller habrá una breve sesión de ejercicios, por lo tanto, es altamente recomendable instalar 
+previamente algunos programas y sus respectivas dependencias, y complementos. Podrás encontrar los links 
+para descargar cada uno de ellos para cada respectiva platica:    
 - [ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/ABS.pdf)<br>
 
 
