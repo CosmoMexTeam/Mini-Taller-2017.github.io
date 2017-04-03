@@ -3,7 +3,7 @@
 
 
 - [PROGRAMA]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf)<br>
-- [ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/abstracts.pdf)<br>
+- [ABSTRACTS Y SOFTWARE-LINKS]({{ site.url }}/Mini-Taller-2017.github.io/assets/ABSTRACTS.pdf)<br>
 
 
 
