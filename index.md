@@ -30,6 +30,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 </center>
 
 :bowtie:
+<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
 <i class="em em---1"></i>
 
