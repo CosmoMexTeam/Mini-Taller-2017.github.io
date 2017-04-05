@@ -32,24 +32,26 @@ para descargar cada uno de ellos para cada respectiva platica:
 |  Platica        | Link           
 | ------------- |:-------------:| 
 | CELIA ESCAMILLA     | [- Mathematica](https://www.wolfram.com/mathematica/trial/)  | 
-| CELIA ESCAMILLA     | [- Instrucciones](http://celrivera.wixsite.com/cosmology/resources-and-cosmocodes)  | 
-| CELIA ESCAMILLA     | [- Codigos](https://github.com/celia-escamilla-rivera)  | 
-| `FAVIO VAZQUEZ`     | `[- CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)  `| 
-| Juan C. MARTÍNEZ | [- Estadística Bayesiana](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/17-04.Cinvestav_Taller.html)  | 
-| `FAVIO VAZQUEZ`     | `[- CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)  `| 
+|     | [- Instrucciones](http://celrivera.wixsite.com/cosmology/resources-and-cosmocodes)  | 
+|      | [- Codigos](https://github.com/celia-escamilla-rivera)  | 
+| FAVIO VAZQUEZ     | [- CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)  | 
+| JUAN C. MARTÍNEZ | [- Estadística Bayesiana](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/17-04.Cinvestav_Taller.html)  | 
 | RUSLAN GABBASOV     | [- Gadget-2](http://wwwmpa.mpa-garching.mpg.de/gadget/gadget-2.0.7.tar.gz)  | 
-| RUSLAN GABBASOV     | [- Gadget-2](http://wwwmpa.mpa-garching.mpg.de/gadget/n-genic.tar.gz)  | 
-| RUSLAN GABBASOV     | [- Gadget-2](http://mirror.keystealth.org/gnu/gsl/gsl-1.16.tar.gz)  | 
-| RUSLAN GABBASOV     | [- Gadget-2](http://www.fftw.org/fftw-2.1.5.tar.gz)  | 
-| RUSLAN GABBASOV     | [- Gadget-2](http://lastro.epfl.ch/misc/TP4/doc/_downloads/fof.tar.gz)  | 
-| RUSLAN GABBASOV     | [- Gadget-2](http://astro.dur.ac.uk/~jch/gadgetviewer/index.html)  | 
-| RUSLAN GABBASOV     | [- Tutoriales](http://wwwmpa.mpa-garching.mpg.de/gadget/)  | 
-| RUSLAN GABBASOV     | [- Tutoriales](http://obswww.unige.ch/lastro/misc/TP4/doc/rst/Exercices/Ex05.html)  | 
-| RUSLAN GABBASOV     | [- Tutoriales](https://astrobites.org/2011/04/02/installing-and-running-gadget-2/)  | 
-| RUSLAN GABBASOV     | [- Tutoriales](http://astro.phy.vanderbilt.edu/~sinham/tutorials.html)  | 
-| MARIANA JABER     | [- nbodykit](http://nbodykit.readthedocs.io/en/latest/)  | 
-| MARIANA JABER     | [- nbodykit](https://www.continuum.io/downloads)  | 
-| MARIANA JABER     | [- Installation](https://www.dropbox.com/s/fjcfww0130ktgxo/Installing%20nbodykit%20with%20ANACONDA.pdf?dl=0)  |
+|      | [- Gadget-2](http://wwwmpa.mpa-garching.mpg.de/gadget/n-genic.tar.gz)  | 
+|      | [- Gadget-2](http://mirror.keystealth.org/gnu/gsl/gsl-1.16.tar.gz)  | 
+|      | [- Gadget-2](http://www.fftw.org/fftw-2.1.5.tar.gz)  | 
+|      | [- Gadget-2](http://lastro.epfl.ch/misc/TP4/doc/_downloads/fof.tar.gz)  | 
+|      | [- Gadget-2](http://astro.dur.ac.uk/~jch/gadgetviewer/index.html)  | 
+|      | [- Tutoriales](http://wwwmpa.mpa-garching.mpg.de/gadget/)  | 
+|      | [- Tutoriales](http://obswww.unige.ch/lastro/misc/TP4/doc/rst/Exercices/Ex05.html)  | 
+|      | [- Tutoriales](https://astrobites.org/2011/04/02/installing-and-running-gadget-2/)  | 
+|      | [- Tutoriales](http://astro.phy.vanderbilt.edu/~sinham/tutorials.html)  | 
+| MARIANA JABER     | [- nbodykit](http://nbodykit.readthedocs.io/en/latest/)  `| 
+|      | [- nbodykit](https://www.continuum.io/downloads)  | 
+|      | [- Installation](https://www.dropbox.com/s/fjcfww0130ktgxo/Installing%20nbodykit%20with%20ANACONDA.pdf?dl=0)  |
+| ERICK ALMARAZ     | [- Camb](http://camb.info/readme.html)  | 
+|     | [- CosmoMC](http://cosmologist.info/cosmomc/)  | 
+|     | [- Instrucciones](https://www.dropbox.com/sh/8p2gcw98en32u6e/AACdYsi6TJDJNPmIAWrXNXAKa?dl=0)  | 
 
 
 
