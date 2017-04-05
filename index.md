@@ -52,6 +52,11 @@ para descargar cada uno de ellos para cada respectiva platica:
 | ERICK ALMARAZ     | [- Camb](http://camb.info/readme.html)  | 
 |     | [- CosmoMC](http://cosmologist.info/cosmomc/)  | 
 |     | [- Instrucciones](https://www.dropbox.com/sh/8p2gcw98en32u6e/AACdYsi6TJDJNPmIAWrXNXAKa?dl=0)  | 
+| LUIS UREÑA     | [- CLASS](https://github.com/lesgourg/class_public)  |
+| JOSUÉ DE SANTIAGO     | [- MCMC](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/REQUISITOS_JOSUE.pdf)  |
+| ALBERTO VAZQUEZ     | [- SimpleMC](https://github.com/ja-vazquez/SimpleMC)  |
+|      | [- GM_Sampler](https://github.com/ja-vazquez/GM_Sampler)  |
+|      | [- Ejemplos](http://nbviewer.jupyter.org/github/ja-vazquez/GM_Sampler/blob/master/GM/GMSampler.ipynb)  |
 
 
 
