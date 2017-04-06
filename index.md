@@ -37,6 +37,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 |   FAVIO VAZQUEZ     |[- GitHubFavioCosmoSIS](https://github.com/FavioVazquez/cosmosis-mnec) |
 |      |[- CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)  | 
 | JUAN C. MARTÍNEZ | [- Estadística Bayesiana](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/17-04.Cinvestav_Taller.html)  | 
+|  | [- Ejercicios](https://github.com/jcmartinezovando/17-04.Cinvestav_Taller)  | 
 | RUSLAN GABBASOV     | [- Gadget-2](http://wwwmpa.mpa-garching.mpg.de/gadget/gadget-2.0.7.tar.gz)  | 
 |      | [- Gadget-2 (2)](http://wwwmpa.mpa-garching.mpg.de/gadget/n-genic.tar.gz)  | 
 |      | [- Gadget-2 (3)](http://mirror.keystealth.org/gnu/gsl/gsl-1.16.tar.gz)  | 
@@ -60,8 +61,10 @@ para descargar cada uno de ellos para cada respectiva platica:
 | LUIS UREÑA     | [- CLASS](https://github.com/lesgourg/class_public)  |
 | JOSUÉ DE SANTIAGO     | [- MCMC](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/REQUISITOS_JOSUE.pdf)  |
 | ALBERTO VAZQUEZ     | [- SimpleMC](https://github.com/ja-vazquez/SimpleMC)  |
+|      | [- Ejemplo_SimpleMC](http://nbviewer.jupyter.org/github/ja-vazquez/SimpleMC/blob/master/SimpleMC_example.ipynb)  |
 |      | [- GM_Sampler](https://github.com/ja-vazquez/GM_Sampler)  |
-|      | [- Ejemplos](http://nbviewer.jupyter.org/github/ja-vazquez/GM_Sampler/blob/master/GM/GMSampler.ipynb)  |
+|      | [- Ejemplo_GMSampler](http://nbviewer.jupyter.org/github/ja-vazquez/GM_Sampler/blob/master/GM/GMSampler.ipynb)  |
+
 
 
 
