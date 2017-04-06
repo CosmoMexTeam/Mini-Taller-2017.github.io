@@ -37,6 +37,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 |   FAVIO VAZQUEZ     |[- GitHubFavioCosmoSIS](https://github.com/FavioVazquez/cosmosis-mnec) |
 |      |[- CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)  | 
 | JUAN C. MARTÍNEZ | [- Estadística Bayesiana](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/17-04.Cinvestav_Taller.html)  | 
+|  | [- Ejercicios](https://github.com/jcmartinezovando/17-04.Cinvestav_Taller)  | 
 | RUSLAN GABBASOV     | [- Gadget-2](http://wwwmpa.mpa-garching.mpg.de/gadget/gadget-2.0.7.tar.gz)  | 
 |      | [- Gadget-2 (2)](http://wwwmpa.mpa-garching.mpg.de/gadget/n-genic.tar.gz)  | 
 |      | [- Gadget-2 (3)](http://mirror.keystealth.org/gnu/gsl/gsl-1.16.tar.gz)  | 
