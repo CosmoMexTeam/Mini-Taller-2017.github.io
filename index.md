@@ -56,8 +56,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 |     | [- CosmoMC](http://cosmologist.info/cosmomc/)  | 
 |     | [- Instrucciones](https://www.dropbox.com/sh/8p2gcw98en32u6e/AACdYsi6TJDJNPmIAWrXNXAKa?dl=0)  |
 |     | [- Cadenas](http://pla.esac.esa.int/pla/#cosmology)  | 
-|     | [- Tabla-Corridas](https://wiki.cosmos.esa.int/planckpla/index.php/Cosmological_Parameters
-)  | 
+|     | [- Tabla-Corridas](https://wiki.cosmos.esa.int/planckpla/index.php/Cosmological_Parameters)  | 
 | LUIS UREÑA     | [- CLASS](https://github.com/lesgourg/class_public)  |
 | JOSUÉ DE SANTIAGO     | [- MCMC](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/REQUISITOS_JOSUE.pdf)  |
 | ALBERTO VAZQUEZ     | [- SimpleMC](https://github.com/ja-vazquez/SimpleMC)  |
