@@ -55,8 +55,10 @@ para descargar cada uno de ellos para cada respectiva platica:
 | LUIS UREÑA     | [- CLASS](https://github.com/lesgourg/class_public)  |
 | JOSUÉ DE SANTIAGO     | [- MCMC](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/REQUISITOS_JOSUE.pdf)  |
 | ALBERTO VAZQUEZ     | [- SimpleMC](https://github.com/ja-vazquez/SimpleMC)  |
+|      | [- Ejemplo_SimpleMC](http://nbviewer.jupyter.org/github/ja-vazquez/SimpleMC/blob/master/SimpleMC_example.ipynb)  |
 |      | [- GM_Sampler](https://github.com/ja-vazquez/GM_Sampler)  |
-|      | [- Ejemplos](http://nbviewer.jupyter.org/github/ja-vazquez/GM_Sampler/blob/master/GM/GMSampler.ipynb)  |
+|      | [- Ejemplo_GMSampler](http://nbviewer.jupyter.org/github/ja-vazquez/GM_Sampler/blob/master/GM/GMSampler.ipynb)  |
+
 
 
 
