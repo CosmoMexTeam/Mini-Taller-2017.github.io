@@ -34,7 +34,8 @@ para descargar cada uno de ellos para cada respectiva platica:
 | CELIA ESCAMILLA     | [- Mathematica](https://www.wolfram.com/mathematica/trial/)  | 
 |     | [- Instrucciones](http://celrivera.wixsite.com/cosmology/resources-and-cosmocodes)  | 
 |      | [- Codigos](https://github.com/celia-escamilla-rivera)  | 
-| FAVIO VAZQUEZ     | [- CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)  | 
+|   FAVIO VAZQUEZ     |[- GitHubFavioCosmoSIS](https://github.com/FavioVazquez/cosmosis-mnec) |
+|      |[- CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)  | 
 | JUAN C. MARTÍNEZ | [- Estadística Bayesiana](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/17-04.Cinvestav_Taller.html)  | 
 | RUSLAN GABBASOV     | [- Gadget-2](http://wwwmpa.mpa-garching.mpg.de/gadget/gadget-2.0.7.tar.gz)  | 
 |      | [- Gadget-2 (2)](http://wwwmpa.mpa-garching.mpg.de/gadget/n-genic.tar.gz)  | 
@@ -48,7 +49,8 @@ para descargar cada uno de ellos para cada respectiva platica:
 |      | [- Tutoriales (4)](http://astro.phy.vanderbilt.edu/~sinham/tutorials.html)  | 
 | MARIANA JABER     | [- nbodykit](http://nbodykit.readthedocs.io/en/latest/)  `| 
 |      | [- nbodykit (2)](https://www.continuum.io/downloads)  | 
-|      | [- Installation](https://www.dropbox.com/s/fjcfww0130ktgxo/Installing%20nbodykit%20with%20ANACONDA.pdf?dl=0)  |
+|      | [- Installation](https://www.dropbox.com/s/fjcfww0130ktgxo/Installing%20nbodykit%20with%20ANACONDA.pdf?dl=0) | 
+|      | [- InstallwithAnaconda](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/InstallingnbodykitANACONDA.pdf)|
 | ERICK ALMARAZ     | [- Camb](http://camb.info/readme.html)  | 
 |     | [- CosmoMC](http://cosmologist.info/cosmomc/)  | 
 |     | [- Instrucciones](https://www.dropbox.com/sh/8p2gcw98en32u6e/AACdYsi6TJDJNPmIAWrXNXAKa?dl=0)  | 
