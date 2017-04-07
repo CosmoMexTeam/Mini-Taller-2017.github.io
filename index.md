@@ -48,7 +48,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 |      | [- Tutoriales (2)](http://obswww.unige.ch/lastro/misc/TP4/doc/rst/Exercices/Ex05.html)  | 
 |      | [- Tutoriales (3)](https://astrobites.org/2011/04/02/installing-and-running-gadget-2/)  | 
 |      | [- Tutoriales (4)](http://astro.phy.vanderbilt.edu/~sinham/tutorials.html)  | 
-|      | [How to]({{ site.url }}/Mini-Taller-2017.github.io/assets/programataller.pdf)  | 
+|      | [How to](https://github.com/Mini-Taller/Mini-Taller-2017.github.io/tree/master/assets/programataller.pdf)  | 
 | MARIANA JABER     | [- nbodykit](http://nbodykit.readthedocs.io/en/latest/)  `| 
 |      | [- nbodykit (2)](https://www.continuum.io/downloads)  | 
 |      | [- Installation](https://www.dropbox.com/s/fjcfww0130ktgxo/Installing%20nbodykit%20with%20ANACONDA.pdf?dl=0) | 
