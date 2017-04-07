@@ -75,7 +75,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 | MARIANA JABER     | [- nbodykit]()  `| 
 | ERICK ALMARAZ     | [- Camb]()  | 
 | LUIS UREÑA     | [- CLASS]()  |
-| JOSUÉ DE SANTIAGO     | [- MCMC]()  |
+| JOSUÉ DE SANTIAGO     | [- MCMC](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/mcmc.tar.gz)  |
 | ALBERTO VAZQUEZ     | [- SimpleMC]()  |
 | ANA AVILEZ     | [- ScalarTensor]()  |
 
