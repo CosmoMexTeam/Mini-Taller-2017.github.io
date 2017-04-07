@@ -64,6 +64,20 @@ para descargar cada uno de ellos para cada respectiva platica:
 |      | [- GM_Sampler](https://github.com/ja-vazquez/GM_Sampler)  |
 |      | [- Ejemplo_GMSampler](http://nbviewer.jupyter.org/github/ja-vazquez/GM_Sampler/blob/master/GM/GMSampler.ipynb)  |
 
+|  Speaker       | Slides           
+| ------------- |:-------------:| 
+| JOAQUIN PEREZ     | [- K-means](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/K-means.pdf)  |
+|   FAVIO VAZQUEZ     |[- BigData](http://slides.com/faviovazquez/bigdatacosmologia#/) |
+| CELIA ESCAMILLA     | [- Mathematica]()  | 
+| JUAN C. MARTÍNEZ | [- Estadística Bayesiana]()  | 
+| RUSLAN GABBASOV     | [- Gadget-2]()  | 
+| MARIANA JABER     | [- nbodykit]()  `| 
+| ERICK ALMARAZ     | [- Camb]()  | 
+| LUIS UREÑA     | [- CLASS]()  |
+| JOSUÉ DE SANTIAGO     | [- MCMC]()  |
+| ALBERTO VAZQUEZ     | [- SimpleMC]()  |
+| ANA AVILEZ     | [- ScalarTensor]()  |
+
 
 
 
