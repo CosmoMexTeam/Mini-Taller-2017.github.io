@@ -70,9 +70,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 | JOAQUIN PEREZ     | [- K-means](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/K-means.pdf)  |
 |   FAVIO VAZQUEZ     |[- BigData](http://slides.com/faviovazquez/bigdatacosmologia#/) |
 |                     |[-CosmoSIS](http://slides.com/faviovazquez/cosmosis)|
-| CELIA ESCAMILLA     | [- CosmoStatistics](https://github.com/celia-escamilla-rivera/Academic_Slices/blob/9887fd1873bb28333bac9c60f0efda1e67f44b85/Cosmo_statistics.pdf
-
-)  | 
+| CELIA ESCAMILLA     | [- CosmoStatistics](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/Cosmo_statistics.pdf)  | 
 | JUAN C. MARTÍNEZ | [- Estadística Bayesiana]()  | 
 | RUSLAN GABBASOV     | [- Gadget-2]()  | 
 | MARIANA JABER     | [- nbodykit]()  `| 
