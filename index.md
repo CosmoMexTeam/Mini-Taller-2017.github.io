@@ -64,7 +64,7 @@ para descargar cada uno de ellos para cada respectiva platica:
 |      | [- Ejemplo_SimpleMC](http://nbviewer.jupyter.org/github/ja-vazquez/SimpleMC/blob/master/SimpleMC_example.ipynb)  |
 |      | [- GM_Sampler](https://github.com/ja-vazquez/GM_Sampler)  |
 |      | [- Ejemplo_GMSampler](http://nbviewer.jupyter.org/github/ja-vazquez/GM_Sampler/blob/master/GM/GMSampler.ipynb)  |
-| ANA AVILEZ     |[-CAMB_ST](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/CAMB_ST.tar.gz)|
+| ANA AVILEZ     |[-CAMB_ST](https://mini-taller.github.io/Mini-Taller-2017.github.io/assets/camb_ST.tar.gz)|
 
 |  Speaker       | Slides           
 | ------------- |:-------------:| 
